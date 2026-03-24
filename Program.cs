@@ -10,6 +10,7 @@ namespace pis1_petra
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
