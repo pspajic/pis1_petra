@@ -16,3 +16,4 @@ namespace pis1_petra
     }
 }
 //vjezba
+//mojo komentar (NS)
